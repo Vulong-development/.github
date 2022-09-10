@@ -1,5 +1,4 @@
-## Привет!
-Мы занимаемся разработкой веб приложений
+## Hello! We develop user interfaces and web applications.
 
 <!--
 
